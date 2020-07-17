@@ -1,0 +1,58 @@
+.main_content h3,
+span {
+  font-family: "Poppins", sans-serif;
+}
+
+.mainWrap {
+  max-width: 1111px;
+  height: 1167px;
+  margin: 0 auto;
+}
+.Section1 {
+  margin-top: 198px;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.Section2 {
+  width: 1110px;
+  height: 300px;
+  margin: auto;
+  object-fit: cover;
+}
+.Section3 {
+  max-width: 1111px;
+  height: 1167px;
+  padding-top: 147px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.section4 {
+  padding-top: 150px;
+  width: 1110px;
+  height: 300px;
+  margin: auto;
+}
+.box__twoboxes {
+  width: 1110px;
+  height: 300px;
+  margin-top: 151px;
+  display: flex;
+  justify-content: space-between;
+}
+.iner_text h3 {
+  position: absolute;
+  float: left;
+  font-size: 33px;
+}
+.box__section3 {
+  width: 1110px;
+  height: 300px;
+  margin: auto;
+  margin-top: 151px;
+  display: flex;
+  justify-content: space-between;
+}
